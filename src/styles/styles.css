@@ -1,0 +1,45 @@
+.img-404 {
+    width: 400px;
+}
+
+.description {
+    word-wrap: break-word;
+}
+
+.header {
+    width: 100%;
+    height: 15%;
+    position: fixed;
+    z-index: 1;
+    top: 0%;
+    left:0%;
+    transform: translate(0%,0%);
+    word-wrap: break-word;
+    background-color: #EEEEEE;
+}
+
+.pagination {
+    width: 100%;
+    height: 20%;
+    justify-content: center;
+    align-items: flex-end;
+}
+
+.main {
+    margin-top: 8rem;
+}
+
+
+
+.btn-sm {
+    padding: 10px;
+    width: 150px;
+}
+
+.btn-userName {
+    width: 200px;
+}
+
+.iframe-map {
+    display:inline-block
+}
